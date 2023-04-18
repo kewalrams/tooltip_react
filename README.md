@@ -1,7 +1,7 @@
 Title : Tooltip On hover
 
 
-Hosted Link ::   https://timely-biscochitos-2ca388.netlify.app/
+Hosted Link ::   https://kewalrams.github.io/tooltip_react/
 
 ### used material ui icons
 
